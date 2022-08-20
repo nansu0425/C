@@ -1,0 +1,10 @@
+# 특정 파일 fileName 제외하기 fileName.js
+# 현재 경로에 있는 fileName_1 만 제외하기 /fileName.js
+# 특정 폴더 node_module 안의 파일 다 제외하기 node_module/
+# 특정 경로의 특정 파일 제외하기 folder/my.txt
+# 특정 경로 아래의 모든 fileName_2 제외하기 folder/**/fileName_2.txt
+# 특정 확장자 파일 다 제외하기 *.txt
+# 예외 만들기 !fileName.txt
+
+practice.c
+practice.out
